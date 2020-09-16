@@ -1,5 +1,7 @@
-# MyFirstRepository
+# 19173054 전채원
 
-Hello my name is ChaeWon.
+## 2주차 과제
+<img width="" height="" src="./png/19173054전채원_2주차 과제.PNG">
 
-<img width="" height="" src="./png/dog.PNG">
+## 3주차 과제
+
