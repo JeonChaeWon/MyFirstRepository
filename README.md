@@ -32,7 +32,7 @@
 <h6>[이미지 바꾸기]</h6>
 <img width="300" height="500" src="./png/19173054전채원_9주차과제-4.PNG"></img>
 
-<h3>- Java </h3>
+<h3>- Java 소스코드</h3>
 
     package com.example.a9week_hw_application;
 
