@@ -23,7 +23,11 @@
 <img width="300" height="500" src="./png/19173054전채원_7주차과제-2.PNG"></img>
 
 ## 9주차 과제
+[메인화면]
 <img width="300" height="500" src="./png/19173054전채원_9주차과제.PNG"></img>
+[넓이]
 <img width="300" height="500" src="./png/19173054전채원_9주차과제-2.PNG"></img>
+[높이]
 <img width="300" height="500" src="./png/19173054전채원_9주차과제-3.PNG"></img>
+[이미지 바꾸기]
 <img width="300" height="500" src="./png/19173054전채원_9주차과제-4.PNG"></img>
